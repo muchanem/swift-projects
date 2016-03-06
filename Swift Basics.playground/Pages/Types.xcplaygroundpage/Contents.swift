@@ -26,4 +26,16 @@ let finalGreeting = greeting + "How are you?"
 ///////INTERGERS//////////
 //////////////////////////
 
+let favoriteProgrammingLanguage = "Swift"
+let year = 2014 // Int
+//////////////////////////
+//Floating Point Numbers//
+//////////////////////////
+
+var version = 2.0 // Double
+//////////////////////////
+////////Boolean///////////
+//////////////////////////
+
+let isAwesome = true // Boolean
 //: [Next](@next)
