@@ -1,5 +1,8 @@
 //: [Previous](@previous)
 
+//////////////////////////
+///////Strings////////////
+//////////////////////////
 // Concatonation
 let country = "United States of America"
 let state = "North Carolina"
@@ -17,10 +20,8 @@ let interpolatedstreetAddress = "\(464) \(street)"
 
 // Code challange
 let name = "Mark"
-let part = "Hi there, "
-let greeting = "\(part) \(name)"
-let stuff = "How are you?"
-let finalGreeting = "\(greeting). \(stuff)"
+let greeting = "Hi there, \(name)"
+let finalGreeting = greeting + "How are you?"
 //////////////////////////
 ///////INTERGERS//////////
 //////////////////////////
