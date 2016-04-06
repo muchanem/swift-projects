@@ -50,4 +50,10 @@ let bestPlayer: String = "Michael Jordan"
 let averagePointsPerGame: Double = 30.1
 let yearOfRetirment: Int = 2003
 let hallOfFame: Bool = true
+//Code Challange
+let firstValue: Int = 2
+let secondValue: Int = 3
+
+
+
 //: [Next](@next)
